@@ -1,0 +1,76 @@
+{
+    "BaseData": {
+      "SongName": "Song",
+      "ArtistName": "Artist",
+      "BaseBPM": "114.514",
+      "BaseMetre": "4",
+      "BaseSong": "SoundData.BaseSong",
+      "CoverImage": "MediaData.Cover",
+      "Movie": "MediaData.BGA",
+      "CustomeData": {}
+    },
+    "Charts": [
+      {
+        "Name": "EZ",
+        "Level": "2",
+        "Author": "Author",
+        "Canvans": [
+          {
+            "NoteGroup": [
+              {
+                "Notes": [
+                  {
+                    "Type": "0",
+                    "Beat": "0.25",
+                    "EndBeat": "0",
+                    "Pos": []
+                  }
+                ],
+                "Sound": "SoundData.001",
+                "Interactable": "ture",
+                "Visible": "true"
+              }
+            ],
+            "KeyFrames": [
+              {
+                "Beat": "0.25",
+                "EndBeat": "0",
+                "Pos": [],
+                "Rot": "0",
+                "Ease": "0"
+              }
+            ],
+            "BPM": [
+              {
+                "Beat": "0.5",
+                "BPM": "125"
+              }
+            ],
+            "Speed": [
+              {
+                "Beat": "0.5",
+                "Speed": "1.25"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "SoundData": [
+      {
+        "Type": "1",
+        "File": "Key1.ogg",
+        "Name": "001",
+        "Volume": "0"
+      }
+    ],
+    "MediaData": [
+      {
+        "Type": "0",
+        "File": "cover.png",
+        "Name": "Cover",
+        "": {}
+      }
+    ],
+    "StoryBoardData": {}
+  }
