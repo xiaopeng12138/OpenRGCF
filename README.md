@@ -1,2 +1,2 @@
 # OpenRGCF
-Open Rythm Game Chart Format: a open source rythm game chart format
+Open Rhythm Game Chart Format: a open source rythm game chart format
